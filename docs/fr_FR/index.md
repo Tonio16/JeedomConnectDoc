@@ -3,6 +3,8 @@
 <img src="../images/JC_icon.png"  width="10%" />
 
 Téléchargez l'application :  
+Pour Android, en téléchargeant le fichier APK<a href="https://github.com/JeedomConnect-Team/JeedomConnect/releases" target="_blank"> ici.</a>
+
 <a href="https://play.google.com/store/apps/details?id=com.jeedomconnect.app" target="_blank"><img src="../images/playstore.png" width='10%'/></a>  
 <a href="https://apps.apple.com/us/app/jeeconnect/id1566533727" target="_blank"><img src="../images/applestore.png" width='10%'/></a>  
 si vous êtes bêta-testeur et utilisez la version bêta du plugin, [regardez-ici](#qBeta)  
@@ -692,8 +694,10 @@ Dorénavant, les applications sont disponibles au téléchargement directement e
 ---
 
 ## Comment télécharger l'application ? <a name="qOU"></a>
+Pour Android, en téléchargeant le fichier APK<a href="https://github.com/JeedomConnect-Team/JeedomConnect/releases" target="_blank"> ici.</a>
 
-L'application est disponible sur vos Store :
+L'application est aussi disponible sur vos Store :
+
 <a href="https://play.google.com/store/apps/details?id=com.jeedomconnect.app" target="_blank"><img src="../images/playstore.png" width='10%'/></a>  
 <a href="https://apps.apple.com/us/app/jeeconnect/id1566533727" target="_blank"><img src="../images/applestore.png" width='10%'/></a>  
 
